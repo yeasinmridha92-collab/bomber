@@ -1,0 +1,14 @@
+[
+  {
+    "device_id": "device_004_123",
+    "key": "LifetimePass",
+    "expirydate": "31-12-2030",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "another_device_id",
+    "key": "SomeKey",
+    "expirydate": "15-06-2025",
+    "Allowoffline": false
+  }
+]
